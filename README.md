@@ -2,3 +2,5 @@
 ## Co-Optimization of Renewable Generation and Battery Storage for Producer Revenues
 
 Combining variable renewables (wind/solar) with battery storage can improve producer revenue by smoothing output and shifting energy to high-price hours. This project studies cooptimisation of a renewable plant plus battery.
+
+reference : H. Ding, P. Pinson, Z. Hu, and Y. Song, Integrated bidding and operating strategies for wind-storage systems, IEEE Transactions on Sustainable Energy, 7 (2016), pp. 163–172.
